@@ -1,0 +1,15 @@
+{
+  "name": "nyc-room-predictor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NYC Airbnb Room Type Predictor - Machine Learning Backend & Next.js Frontend",
+  "scripts": {
+    "install:all": "npm --prefix frontend install && pip install -r backend/requirements.txt",
+    "dev": "concurrently \"uvicorn backend.main:app --reload --port 8000\" \"npm --prefix frontend run dev\"",
+    "build": "npm --prefix frontend run build",
+    "start": "concurrently \"uvicorn backend.main:app --host 0.0.0.0 --port 8000\" \"npm --prefix frontend start\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

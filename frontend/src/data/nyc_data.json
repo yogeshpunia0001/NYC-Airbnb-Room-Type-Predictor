@@ -1,0 +1,1589 @@
+{
+  "Bronx": {
+    "center": {
+      "lat": 40.8483,
+      "lng": -73.88455
+    },
+    "neighbourhoods": [
+      {
+        "name": "Kingsbridge",
+        "lat": 40.8768,
+        "lng": -73.90179,
+        "avgPrice": 70.0,
+        "count": 70
+      },
+      {
+        "name": "Fordham",
+        "lat": 40.86322,
+        "lng": -73.89436,
+        "avgPrice": 60.0,
+        "count": 63
+      },
+      {
+        "name": "Longwood",
+        "lat": 40.82128,
+        "lng": -73.90245,
+        "avgPrice": 75.0,
+        "count": 62
+      },
+      {
+        "name": "Mott Haven",
+        "lat": 40.811,
+        "lng": -73.91987,
+        "avgPrice": 74.0,
+        "count": 60
+      },
+      {
+        "name": "Concourse",
+        "lat": 40.82692,
+        "lng": -73.92447,
+        "avgPrice": 81.0,
+        "count": 50
+      },
+      {
+        "name": "Wakefield",
+        "lat": 40.89318,
+        "lng": -73.85358,
+        "avgPrice": 60.0,
+        "count": 50
+      },
+      {
+        "name": "Port Morris",
+        "lat": 40.80673,
+        "lng": -73.92662,
+        "avgPrice": 62.5,
+        "count": 46
+      },
+      {
+        "name": "Allerton",
+        "lat": 40.86529,
+        "lng": -73.85873,
+        "avgPrice": 66.5,
+        "count": 42
+      },
+      {
+        "name": "Williamsbridge",
+        "lat": 40.87894,
+        "lng": -73.85815,
+        "avgPrice": 64.0,
+        "count": 40
+      },
+      {
+        "name": "Parkchester",
+        "lat": 40.83565,
+        "lng": -73.86387,
+        "avgPrice": 55.0,
+        "count": 39
+      },
+      {
+        "name": "Concourse Village",
+        "lat": 40.83005,
+        "lng": -73.91781,
+        "avgPrice": 65.0,
+        "count": 32
+      },
+      {
+        "name": "Norwood",
+        "lat": 40.87504,
+        "lng": -73.87942,
+        "avgPrice": 58.0,
+        "count": 31
+      },
+      {
+        "name": "Claremont Village",
+        "lat": 40.83919,
+        "lng": -73.90928,
+        "avgPrice": 68.5,
+        "count": 28
+      },
+      {
+        "name": "Pelham Gardens",
+        "lat": 40.86368,
+        "lng": -73.84316,
+        "avgPrice": 75.0,
+        "count": 28
+      },
+      {
+        "name": "Highbridge",
+        "lat": 40.83549,
+        "lng": -73.92785,
+        "avgPrice": 70.0,
+        "count": 27
+      },
+      {
+        "name": "Belmont",
+        "lat": 40.85506,
+        "lng": -73.88711,
+        "avgPrice": 52.5,
+        "count": 24
+      },
+      {
+        "name": "Throgs Neck",
+        "lat": 40.82416,
+        "lng": -73.82178,
+        "avgPrice": 74.5,
+        "count": 24
+      },
+      {
+        "name": "Clason Point",
+        "lat": 40.81175,
+        "lng": -73.85679,
+        "avgPrice": 80.0,
+        "count": 21
+      },
+      {
+        "name": "University Heights",
+        "lat": 40.85806,
+        "lng": -73.91016,
+        "avgPrice": 55.0,
+        "count": 21
+      },
+      {
+        "name": "Mount Hope",
+        "lat": 40.84843,
+        "lng": -73.90552,
+        "avgPrice": 60.0,
+        "count": 20
+      },
+      {
+        "name": "Bronxdale",
+        "lat": 40.85473,
+        "lng": -73.86629,
+        "avgPrice": 50.0,
+        "count": 19
+      },
+      {
+        "name": "City Island",
+        "lat": 40.84787,
+        "lng": -73.78705,
+        "avgPrice": 97.5,
+        "count": 18
+      },
+      {
+        "name": "Hunts Point",
+        "lat": 40.81552,
+        "lng": -73.88809,
+        "avgPrice": 40.0,
+        "count": 18
+      },
+      {
+        "name": "Morrisania",
+        "lat": 40.82828,
+        "lng": -73.90586,
+        "avgPrice": 73.5,
+        "count": 18
+      },
+      {
+        "name": "Morris Heights",
+        "lat": 40.84913,
+        "lng": -73.9163,
+        "avgPrice": 51.0,
+        "count": 17
+      },
+      {
+        "name": "Pelham Bay",
+        "lat": 40.84935,
+        "lng": -73.83208,
+        "avgPrice": 89.0,
+        "count": 17
+      },
+      {
+        "name": "Morris Park",
+        "lat": 40.85228,
+        "lng": -73.85538,
+        "avgPrice": 60.0,
+        "count": 15
+      },
+      {
+        "name": "Soundview",
+        "lat": 40.82692,
+        "lng": -73.86991,
+        "avgPrice": 49.0,
+        "count": 15
+      },
+      {
+        "name": "Eastchester",
+        "lat": 40.88085,
+        "lng": -73.83472,
+        "avgPrice": 75.0,
+        "count": 13
+      },
+      {
+        "name": "Edenwald",
+        "lat": 40.88803,
+        "lng": -73.83609,
+        "avgPrice": 75.0,
+        "count": 13
+      },
+      {
+        "name": "Schuylerville",
+        "lat": 40.83586,
+        "lng": -73.83347,
+        "avgPrice": 65.0,
+        "count": 13
+      },
+      {
+        "name": "Fieldston",
+        "lat": 40.89194,
+        "lng": -73.90194,
+        "avgPrice": 67.0,
+        "count": 12
+      },
+      {
+        "name": "Riverdale",
+        "lat": 40.88735,
+        "lng": -73.91206,
+        "avgPrice": 150.0,
+        "count": 11
+      },
+      {
+        "name": "Tremont",
+        "lat": 40.84368,
+        "lng": -73.89131,
+        "avgPrice": 41.0,
+        "count": 11
+      },
+      {
+        "name": "Van Nest",
+        "lat": 40.84326,
+        "lng": -73.86716,
+        "avgPrice": 50.0,
+        "count": 11
+      },
+      {
+        "name": "Woodlawn",
+        "lat": 40.89742,
+        "lng": -73.86794,
+        "avgPrice": 68.0,
+        "count": 11
+      },
+      {
+        "name": "East Morrisania",
+        "lat": 40.83126,
+        "lng": -73.88884,
+        "avgPrice": 72.5,
+        "count": 10
+      },
+      {
+        "name": "Melrose",
+        "lat": 40.82153,
+        "lng": -73.91585,
+        "avgPrice": 74.5,
+        "count": 10
+      },
+      {
+        "name": "North Riverdale",
+        "lat": 40.9076,
+        "lng": -73.89833,
+        "avgPrice": 65.0,
+        "count": 10
+      },
+      {
+        "name": "Westchester Square",
+        "lat": 40.83969,
+        "lng": -73.84698,
+        "avgPrice": 67.5,
+        "count": 10
+      },
+      {
+        "name": "Castle Hill",
+        "lat": 40.81689,
+        "lng": -73.847,
+        "avgPrice": 39.0,
+        "count": 9
+      },
+      {
+        "name": "Baychester",
+        "lat": 40.87362,
+        "lng": -73.84297,
+        "avgPrice": 75.0,
+        "count": 7
+      },
+      {
+        "name": "Unionport",
+        "lat": 40.82829,
+        "lng": -73.85246,
+        "avgPrice": 90.0,
+        "count": 7
+      },
+      {
+        "name": "Mount Eden",
+        "lat": 40.84206,
+        "lng": -73.9165,
+        "avgPrice": 45.5,
+        "count": 6
+      },
+      {
+        "name": "Olinville",
+        "lat": 40.88365,
+        "lng": -73.86451,
+        "avgPrice": 53.0,
+        "count": 4
+      },
+      {
+        "name": "Spuyten Duyvil",
+        "lat": 40.88109,
+        "lng": -73.91678,
+        "avgPrice": 99.5,
+        "count": 4
+      },
+      {
+        "name": "Co-op City",
+        "lat": 40.86481,
+        "lng": -73.82324,
+        "avgPrice": 77.5,
+        "count": 2
+      },
+      {
+        "name": "West Farms",
+        "lat": 40.84135,
+        "lng": -73.87846,
+        "avgPrice": 122.0,
+        "count": 2
+      }
+    ]
+  },
+  "Brooklyn": {
+    "center": {
+      "lat": 40.68504,
+      "lng": -73.95119
+    },
+    "neighbourhoods": [
+      {
+        "name": "Williamsburg",
+        "lat": 40.71256,
+        "lng": -73.95185,
+        "avgPrice": 105.0,
+        "count": 3920
+      },
+      {
+        "name": "Bedford-Stuyvesant",
+        "lat": 40.6872,
+        "lng": -73.93981,
+        "avgPrice": 80.0,
+        "count": 3714
+      },
+      {
+        "name": "Bushwick",
+        "lat": 40.69674,
+        "lng": -73.92037,
+        "avgPrice": 65.0,
+        "count": 2465
+      },
+      {
+        "name": "Crown Heights",
+        "lat": 40.6727,
+        "lng": -73.94632,
+        "avgPrice": 85.0,
+        "count": 1564
+      },
+      {
+        "name": "Greenpoint",
+        "lat": 40.72797,
+        "lng": -73.95055,
+        "avgPrice": 119.0,
+        "count": 1115
+      },
+      {
+        "name": "Flatbush",
+        "lat": 40.64495,
+        "lng": -73.96052,
+        "avgPrice": 72.0,
+        "count": 621
+      },
+      {
+        "name": "Clinton Hill",
+        "lat": 40.68811,
+        "lng": -73.9644,
+        "avgPrice": 120.0,
+        "count": 572
+      },
+      {
+        "name": "Prospect-Lefferts Gardens",
+        "lat": 40.65928,
+        "lng": -73.95527,
+        "avgPrice": 80.0,
+        "count": 535
+      },
+      {
+        "name": "Park Slope",
+        "lat": 40.67417,
+        "lng": -73.97895,
+        "avgPrice": 145.0,
+        "count": 506
+      },
+      {
+        "name": "East Flatbush",
+        "lat": 40.649,
+        "lng": -73.93928,
+        "avgPrice": 75.0,
+        "count": 500
+      },
+      {
+        "name": "Fort Greene",
+        "lat": 40.69019,
+        "lng": -73.9741,
+        "avgPrice": 130.0,
+        "count": 489
+      },
+      {
+        "name": "Sunset Park",
+        "lat": 40.65253,
+        "lng": -74.00341,
+        "avgPrice": 80.0,
+        "count": 390
+      },
+      {
+        "name": "Prospect Heights",
+        "lat": 40.67753,
+        "lng": -73.96805,
+        "avgPrice": 124.0,
+        "count": 357
+      },
+      {
+        "name": "South Slope",
+        "lat": 40.66493,
+        "lng": -73.98542,
+        "avgPrice": 135.0,
+        "count": 284
+      },
+      {
+        "name": "Gowanus",
+        "lat": 40.6763,
+        "lng": -73.98866,
+        "avgPrice": 129.0,
+        "count": 247
+      },
+      {
+        "name": "Carroll Gardens",
+        "lat": 40.68064,
+        "lng": -73.99616,
+        "avgPrice": 150.0,
+        "count": 233
+      },
+      {
+        "name": "East New York",
+        "lat": 40.66821,
+        "lng": -73.8842,
+        "avgPrice": 75.0,
+        "count": 218
+      },
+      {
+        "name": "Boerum Hill",
+        "lat": 40.68639,
+        "lng": -73.98549,
+        "avgPrice": 150.0,
+        "count": 177
+      },
+      {
+        "name": "Kensington",
+        "lat": 40.64175,
+        "lng": -73.9757,
+        "avgPrice": 70.0,
+        "count": 175
+      },
+      {
+        "name": "Sheepshead Bay",
+        "lat": 40.59623,
+        "lng": -73.95208,
+        "avgPrice": 65.0,
+        "count": 164
+      },
+      {
+        "name": "Windsor Terrace",
+        "lat": 40.65461,
+        "lng": -73.97799,
+        "avgPrice": 123.0,
+        "count": 157
+      },
+      {
+        "name": "Brooklyn Heights",
+        "lat": 40.69479,
+        "lng": -73.99432,
+        "avgPrice": 150.0,
+        "count": 154
+      },
+      {
+        "name": "Canarsie",
+        "lat": 40.63859,
+        "lng": -73.90129,
+        "avgPrice": 85.0,
+        "count": 147
+      },
+      {
+        "name": "Bay Ridge",
+        "lat": 40.63142,
+        "lng": -74.02624,
+        "avgPrice": 85.0,
+        "count": 141
+      },
+      {
+        "name": "Borough Park",
+        "lat": 40.63727,
+        "lng": -73.99703,
+        "avgPrice": 53.5,
+        "count": 136
+      },
+      {
+        "name": "Cypress Hills",
+        "lat": 40.6822,
+        "lng": -73.8841,
+        "avgPrice": 68.0,
+        "count": 135
+      },
+      {
+        "name": "Midwood",
+        "lat": 40.62021,
+        "lng": -73.95967,
+        "avgPrice": 75.0,
+        "count": 109
+      },
+      {
+        "name": "Cobble Hill",
+        "lat": 40.68727,
+        "lng": -73.99555,
+        "avgPrice": 156.0,
+        "count": 99
+      },
+      {
+        "name": "Downtown Brooklyn",
+        "lat": 40.69432,
+        "lng": -73.98494,
+        "avgPrice": 135.0,
+        "count": 83
+      },
+      {
+        "name": "Flatlands",
+        "lat": 40.62554,
+        "lng": -73.93258,
+        "avgPrice": 85.0,
+        "count": 83
+      },
+      {
+        "name": "Red Hook",
+        "lat": 40.67721,
+        "lng": -74.0098,
+        "avgPrice": 117.0,
+        "count": 79
+      },
+      {
+        "name": "Bensonhurst",
+        "lat": 40.61218,
+        "lng": -73.99401,
+        "avgPrice": 75.0,
+        "count": 75
+      },
+      {
+        "name": "Brighton Beach",
+        "lat": 40.57841,
+        "lng": -73.9613,
+        "avgPrice": 85.0,
+        "count": 75
+      },
+      {
+        "name": "Gravesend",
+        "lat": 40.5956,
+        "lng": -73.9769,
+        "avgPrice": 70.0,
+        "count": 68
+      },
+      {
+        "name": "Brownsville",
+        "lat": 40.66467,
+        "lng": -73.91421,
+        "avgPrice": 62.0,
+        "count": 61
+      },
+      {
+        "name": "Fort Hamilton",
+        "lat": 40.61896,
+        "lng": -74.03224,
+        "avgPrice": 90.0,
+        "count": 55
+      },
+      {
+        "name": "Columbia St",
+        "lat": 40.68502,
+        "lng": -74.00246,
+        "avgPrice": 132.5,
+        "count": 42
+      },
+      {
+        "name": "DUMBO",
+        "lat": 40.70327,
+        "lng": -73.9879,
+        "avgPrice": 189.0,
+        "count": 36
+      },
+      {
+        "name": "Vinegar Hill",
+        "lat": 40.70155,
+        "lng": -73.98331,
+        "avgPrice": 175.0,
+        "count": 34
+      },
+      {
+        "name": "Bath Beach",
+        "lat": 40.60413,
+        "lng": -74.00637,
+        "avgPrice": 69.0,
+        "count": 17
+      },
+      {
+        "name": "Coney Island",
+        "lat": 40.57594,
+        "lng": -73.98858,
+        "avgPrice": 100.0,
+        "count": 17
+      },
+      {
+        "name": "Navy Yard",
+        "lat": 40.69982,
+        "lng": -73.97394,
+        "avgPrice": 150.0,
+        "count": 14
+      },
+      {
+        "name": "Dyker Heights",
+        "lat": 40.62409,
+        "lng": -74.01047,
+        "avgPrice": 82.5,
+        "count": 12
+      },
+      {
+        "name": "Bergen Beach",
+        "lat": 40.62337,
+        "lng": -73.90921,
+        "avgPrice": 96.0,
+        "count": 10
+      },
+      {
+        "name": "Manhattan Beach",
+        "lat": 40.57936,
+        "lng": -73.94653,
+        "avgPrice": 112.0,
+        "count": 8
+      },
+      {
+        "name": "Sea Gate",
+        "lat": 40.57712,
+        "lng": -74.00872,
+        "avgPrice": 125.0,
+        "count": 7
+      },
+      {
+        "name": "Mill Basin",
+        "lat": 40.61238,
+        "lng": -73.91585,
+        "avgPrice": 167.5,
+        "count": 4
+      }
+    ]
+  },
+  "Manhattan": {
+    "center": {
+      "lat": 40.76506,
+      "lng": -73.97461
+    },
+    "neighbourhoods": [
+      {
+        "name": "Harlem",
+        "lat": 40.81603,
+        "lng": -73.94801,
+        "avgPrice": 89.0,
+        "count": 2658
+      },
+      {
+        "name": "Upper West Side",
+        "lat": 40.78846,
+        "lng": -73.97373,
+        "avgPrice": 150.0,
+        "count": 1971
+      },
+      {
+        "name": "Hell's Kitchen",
+        "lat": 40.76216,
+        "lng": -73.99148,
+        "avgPrice": 168.0,
+        "count": 1958
+      },
+      {
+        "name": "East Village",
+        "lat": 40.72676,
+        "lng": -73.98386,
+        "avgPrice": 150.0,
+        "count": 1853
+      },
+      {
+        "name": "Upper East Side",
+        "lat": 40.77275,
+        "lng": -73.95474,
+        "avgPrice": 149.0,
+        "count": 1798
+      },
+      {
+        "name": "Midtown",
+        "lat": 40.75487,
+        "lng": -73.97582,
+        "avgPrice": 210.0,
+        "count": 1545
+      },
+      {
+        "name": "East Harlem",
+        "lat": 40.79614,
+        "lng": -73.94229,
+        "avgPrice": 99.0,
+        "count": 1117
+      },
+      {
+        "name": "Chelsea",
+        "lat": 40.74469,
+        "lng": -73.99811,
+        "avgPrice": 199.0,
+        "count": 1113
+      },
+      {
+        "name": "Lower East Side",
+        "lat": 40.71839,
+        "lng": -73.98782,
+        "avgPrice": 139.0,
+        "count": 911
+      },
+      {
+        "name": "Washington Heights",
+        "lat": 40.8445,
+        "lng": -73.93836,
+        "avgPrice": 72.0,
+        "count": 899
+      },
+      {
+        "name": "West Village",
+        "lat": 40.73435,
+        "lng": -74.00408,
+        "avgPrice": 200.0,
+        "count": 768
+      },
+      {
+        "name": "Financial District",
+        "lat": 40.70691,
+        "lng": -74.00917,
+        "avgPrice": 200.0,
+        "count": 744
+      },
+      {
+        "name": "Murray Hill",
+        "lat": 40.74743,
+        "lng": -73.97603,
+        "avgPrice": 190.0,
+        "count": 485
+      },
+      {
+        "name": "Kips Bay",
+        "lat": 40.74182,
+        "lng": -73.9794,
+        "avgPrice": 152.0,
+        "count": 470
+      },
+      {
+        "name": "Greenwich Village",
+        "lat": 40.73066,
+        "lng": -73.99856,
+        "avgPrice": 197.5,
+        "count": 392
+      },
+      {
+        "name": "Chinatown",
+        "lat": 40.71562,
+        "lng": -73.99391,
+        "avgPrice": 129.0,
+        "count": 368
+      },
+      {
+        "name": "SoHo",
+        "lat": 40.72438,
+        "lng": -74.00202,
+        "avgPrice": 199.0,
+        "count": 358
+      },
+      {
+        "name": "Morningside Heights",
+        "lat": 40.80834,
+        "lng": -73.96176,
+        "avgPrice": 98.5,
+        "count": 346
+      },
+      {
+        "name": "Gramercy",
+        "lat": 40.73557,
+        "lng": -73.9843,
+        "avgPrice": 165.0,
+        "count": 338
+      },
+      {
+        "name": "Theater District",
+        "lat": 40.75984,
+        "lng": -73.98549,
+        "avgPrice": 190.0,
+        "count": 288
+      },
+      {
+        "name": "Nolita",
+        "lat": 40.72215,
+        "lng": -73.99508,
+        "avgPrice": 179.0,
+        "count": 253
+      },
+      {
+        "name": "Inwood",
+        "lat": 40.86532,
+        "lng": -73.92472,
+        "avgPrice": 77.5,
+        "count": 252
+      },
+      {
+        "name": "Tribeca",
+        "lat": 40.71774,
+        "lng": -74.0074,
+        "avgPrice": 295.0,
+        "count": 177
+      },
+      {
+        "name": "Little Italy",
+        "lat": 40.7188,
+        "lng": -73.99723,
+        "avgPrice": 150.0,
+        "count": 121
+      },
+      {
+        "name": "Flatiron District",
+        "lat": 40.74105,
+        "lng": -73.98841,
+        "avgPrice": 225.0,
+        "count": 80
+      },
+      {
+        "name": "NoHo",
+        "lat": 40.72701,
+        "lng": -73.99305,
+        "avgPrice": 250.0,
+        "count": 78
+      },
+      {
+        "name": "Roosevelt Island",
+        "lat": 40.76328,
+        "lng": -73.94856,
+        "avgPrice": 80.0,
+        "count": 77
+      },
+      {
+        "name": "Two Bridges",
+        "lat": 40.71173,
+        "lng": -73.99578,
+        "avgPrice": 109.5,
+        "count": 72
+      },
+      {
+        "name": "Battery Park City",
+        "lat": 40.70996,
+        "lng": -74.01658,
+        "avgPrice": 195.0,
+        "count": 70
+      },
+      {
+        "name": "Civic Center",
+        "lat": 40.71386,
+        "lng": -74.00363,
+        "avgPrice": 169.0,
+        "count": 52
+      },
+      {
+        "name": "Stuyvesant Town",
+        "lat": 40.73184,
+        "lng": -73.9783,
+        "avgPrice": 115.0,
+        "count": 37
+      },
+      {
+        "name": "Marble Hill",
+        "lat": 40.87574,
+        "lng": -73.91104,
+        "avgPrice": 76.5,
+        "count": 12
+      }
+    ]
+  },
+  "Queens": {
+    "center": {
+      "lat": 40.73153,
+      "lng": -73.87277
+    },
+    "neighbourhoods": [
+      {
+        "name": "Astoria",
+        "lat": 40.7643,
+        "lng": -73.92,
+        "avgPrice": 85.0,
+        "count": 900
+      },
+      {
+        "name": "Long Island City",
+        "lat": 40.75245,
+        "lng": -73.9382,
+        "avgPrice": 99.0,
+        "count": 537
+      },
+      {
+        "name": "Flushing",
+        "lat": 40.75488,
+        "lng": -73.81951,
+        "avgPrice": 65.0,
+        "count": 426
+      },
+      {
+        "name": "Ridgewood",
+        "lat": 40.70408,
+        "lng": -73.9059,
+        "avgPrice": 60.0,
+        "count": 423
+      },
+      {
+        "name": "Sunnyside",
+        "lat": 40.74241,
+        "lng": -73.92071,
+        "avgPrice": 75.0,
+        "count": 363
+      },
+      {
+        "name": "Ditmars Steinway",
+        "lat": 40.77503,
+        "lng": -73.91055,
+        "avgPrice": 79.0,
+        "count": 309
+      },
+      {
+        "name": "Elmhurst",
+        "lat": 40.73994,
+        "lng": -73.87871,
+        "avgPrice": 59.0,
+        "count": 237
+      },
+      {
+        "name": "Woodside",
+        "lat": 40.74593,
+        "lng": -73.90272,
+        "avgPrice": 60.0,
+        "count": 235
+      },
+      {
+        "name": "Jamaica",
+        "lat": 40.68505,
+        "lng": -73.78835,
+        "avgPrice": 70.0,
+        "count": 231
+      },
+      {
+        "name": "Jackson Heights",
+        "lat": 40.75174,
+        "lng": -73.88154,
+        "avgPrice": 68.5,
+        "count": 186
+      },
+      {
+        "name": "East Elmhurst",
+        "lat": 40.76278,
+        "lng": -73.87868,
+        "avgPrice": 60.0,
+        "count": 185
+      },
+      {
+        "name": "Forest Hills",
+        "lat": 40.72164,
+        "lng": -73.84672,
+        "avgPrice": 80.0,
+        "count": 144
+      },
+      {
+        "name": "Maspeth",
+        "lat": 40.7297,
+        "lng": -73.89992,
+        "avgPrice": 65.0,
+        "count": 110
+      },
+      {
+        "name": "Rego Park",
+        "lat": 40.7268,
+        "lng": -73.86168,
+        "avgPrice": 67.0,
+        "count": 106
+      },
+      {
+        "name": "Richmond Hill",
+        "lat": 40.69398,
+        "lng": -73.83,
+        "avgPrice": 65.0,
+        "count": 94
+      },
+      {
+        "name": "Woodhaven",
+        "lat": 40.69197,
+        "lng": -73.85823,
+        "avgPrice": 52.0,
+        "count": 88
+      },
+      {
+        "name": "Springfield Gardens",
+        "lat": 40.66769,
+        "lng": -73.76243,
+        "avgPrice": 80.0,
+        "count": 85
+      },
+      {
+        "name": "Arverne",
+        "lat": 40.59185,
+        "lng": -73.79484,
+        "avgPrice": 125.0,
+        "count": 77
+      },
+      {
+        "name": "St. Albans",
+        "lat": 40.69567,
+        "lng": -73.76207,
+        "avgPrice": 61.5,
+        "count": 76
+      },
+      {
+        "name": "Corona",
+        "lat": 40.7429,
+        "lng": -73.861,
+        "avgPrice": 40.0,
+        "count": 64
+      },
+      {
+        "name": "Ozone Park",
+        "lat": 40.68124,
+        "lng": -73.84736,
+        "avgPrice": 75.0,
+        "count": 62
+      },
+      {
+        "name": "Queens Village",
+        "lat": 40.71459,
+        "lng": -73.74315,
+        "avgPrice": 75.0,
+        "count": 60
+      },
+      {
+        "name": "Rosedale",
+        "lat": 40.65947,
+        "lng": -73.73446,
+        "avgPrice": 65.0,
+        "count": 59
+      },
+      {
+        "name": "Briarwood",
+        "lat": 40.70976,
+        "lng": -73.81381,
+        "avgPrice": 71.5,
+        "count": 56
+      },
+      {
+        "name": "Rockaway Beach",
+        "lat": 40.58743,
+        "lng": -73.81378,
+        "avgPrice": 125.0,
+        "count": 56
+      },
+      {
+        "name": "Glendale",
+        "lat": 40.70078,
+        "lng": -73.88921,
+        "avgPrice": 84.0,
+        "count": 54
+      },
+      {
+        "name": "South Ozone Park",
+        "lat": 40.67226,
+        "lng": -73.80422,
+        "avgPrice": 69.0,
+        "count": 40
+      },
+      {
+        "name": "Bayside",
+        "lat": 40.75978,
+        "lng": -73.76863,
+        "avgPrice": 65.0,
+        "count": 39
+      },
+      {
+        "name": "Fresh Meadows",
+        "lat": 40.73907,
+        "lng": -73.78875,
+        "avgPrice": 72.0,
+        "count": 32
+      },
+      {
+        "name": "Kew Gardens",
+        "lat": 40.7083,
+        "lng": -73.83057,
+        "avgPrice": 67.5,
+        "count": 32
+      },
+      {
+        "name": "Middle Village",
+        "lat": 40.71631,
+        "lng": -73.87913,
+        "avgPrice": 99.0,
+        "count": 31
+      },
+      {
+        "name": "Far Rockaway",
+        "lat": 40.59741,
+        "lng": -73.75451,
+        "avgPrice": 63.0,
+        "count": 29
+      },
+      {
+        "name": "Cambria Heights",
+        "lat": 40.69378,
+        "lng": -73.73592,
+        "avgPrice": 60.0,
+        "count": 26
+      },
+      {
+        "name": "Kew Gardens Hills",
+        "lat": 40.72443,
+        "lng": -73.81923,
+        "avgPrice": 92.5,
+        "count": 26
+      },
+      {
+        "name": "Howard Beach",
+        "lat": 40.66145,
+        "lng": -73.84511,
+        "avgPrice": 100.0,
+        "count": 20
+      },
+      {
+        "name": "College Point",
+        "lat": 40.7848,
+        "lng": -73.84379,
+        "avgPrice": 60.0,
+        "count": 19
+      },
+      {
+        "name": "Jamaica Estates",
+        "lat": 40.71835,
+        "lng": -73.79042,
+        "avgPrice": 135.0,
+        "count": 19
+      },
+      {
+        "name": "Laurelton",
+        "lat": 40.67529,
+        "lng": -73.7446,
+        "avgPrice": 75.0,
+        "count": 18
+      },
+      {
+        "name": "Bayswater",
+        "lat": 40.60572,
+        "lng": -73.76258,
+        "avgPrice": 70.0,
+        "count": 17
+      },
+      {
+        "name": "Bellerose",
+        "lat": 40.73111,
+        "lng": -73.7264,
+        "avgPrice": 85.0,
+        "count": 14
+      },
+      {
+        "name": "Hollis",
+        "lat": 40.71452,
+        "lng": -73.76708,
+        "avgPrice": 77.5,
+        "count": 14
+      },
+      {
+        "name": "Edgemere",
+        "lat": 40.59468,
+        "lng": -73.77373,
+        "avgPrice": 65.0,
+        "count": 11
+      },
+      {
+        "name": "Whitestone",
+        "lat": 40.78424,
+        "lng": -73.81865,
+        "avgPrice": 49.0,
+        "count": 11
+      },
+      {
+        "name": "Belle Harbor",
+        "lat": 40.57615,
+        "lng": -73.84905,
+        "avgPrice": 155.0,
+        "count": 8
+      },
+      {
+        "name": "Douglaston",
+        "lat": 40.75964,
+        "lng": -73.73613,
+        "avgPrice": 65.0,
+        "count": 8
+      },
+      {
+        "name": "Jamaica Hills",
+        "lat": 40.71359,
+        "lng": -73.7985,
+        "avgPrice": 83.5,
+        "count": 8
+      },
+      {
+        "name": "Bay Terrace",
+        "lat": 40.78066,
+        "lng": -73.78305,
+        "avgPrice": 141.5,
+        "count": 6
+      },
+      {
+        "name": "Little Neck",
+        "lat": 40.7647,
+        "lng": -73.73001,
+        "avgPrice": 50.0,
+        "count": 5
+      },
+      {
+        "name": "Holliswood",
+        "lat": 40.72245,
+        "lng": -73.77063,
+        "avgPrice": 112.5,
+        "count": 4
+      },
+      {
+        "name": "Breezy Point",
+        "lat": 40.56573,
+        "lng": -73.8699,
+        "avgPrice": 195.0,
+        "count": 3
+      },
+      {
+        "name": "Neponsit",
+        "lat": 40.57063,
+        "lng": -73.85922,
+        "avgPrice": 274.0,
+        "count": 3
+      }
+    ]
+  },
+  "Staten Island": {
+    "center": {
+      "lat": 40.61022,
+      "lng": -74.10581
+    },
+    "neighbourhoods": [
+      {
+        "name": "St. George",
+        "lat": 40.64331,
+        "lng": -74.08182,
+        "avgPrice": 96.0,
+        "count": 48
+      },
+      {
+        "name": "Tompkinsville",
+        "lat": 40.63313,
+        "lng": -74.08646,
+        "avgPrice": 62.5,
+        "count": 42
+      },
+      {
+        "name": "Stapleton",
+        "lat": 40.63266,
+        "lng": -74.0785,
+        "avgPrice": 75.0,
+        "count": 27
+      },
+      {
+        "name": "Concord",
+        "lat": 40.60201,
+        "lng": -74.08419,
+        "avgPrice": 34.5,
+        "count": 26
+      },
+      {
+        "name": "Arrochar",
+        "lat": 40.5939,
+        "lng": -74.0746,
+        "avgPrice": 65.0,
+        "count": 21
+      },
+      {
+        "name": "Randall Manor",
+        "lat": 40.63275,
+        "lng": -74.1215,
+        "avgPrice": 79.0,
+        "count": 19
+      },
+      {
+        "name": "West Brighton",
+        "lat": 40.63193,
+        "lng": -74.11596,
+        "avgPrice": 69.5,
+        "count": 18
+      },
+      {
+        "name": "Clifton",
+        "lat": 40.61917,
+        "lng": -74.08156,
+        "avgPrice": 75.0,
+        "count": 15
+      },
+      {
+        "name": "Great Kills",
+        "lat": 40.54997,
+        "lng": -74.14481,
+        "avgPrice": 83.0,
+        "count": 10
+      },
+      {
+        "name": "Port Richmond",
+        "lat": 40.63315,
+        "lng": -74.13383,
+        "avgPrice": 50.0,
+        "count": 9
+      },
+      {
+        "name": "Mariners Harbor",
+        "lat": 40.63318,
+        "lng": -74.15922,
+        "avgPrice": 71.5,
+        "count": 8
+      },
+      {
+        "name": "New Springville",
+        "lat": 40.58451,
+        "lng": -74.15781,
+        "avgPrice": 63.0,
+        "count": 8
+      },
+      {
+        "name": "South Beach",
+        "lat": 40.5912,
+        "lng": -74.08733,
+        "avgPrice": 67.5,
+        "count": 8
+      },
+      {
+        "name": "Dongan Hills",
+        "lat": 40.5804,
+        "lng": -74.09334,
+        "avgPrice": 70.0,
+        "count": 7
+      },
+      {
+        "name": "Grymes Hill",
+        "lat": 40.61485,
+        "lng": -74.09376,
+        "avgPrice": 125.0,
+        "count": 7
+      },
+      {
+        "name": "Rosebank",
+        "lat": 40.61215,
+        "lng": -74.07099,
+        "avgPrice": 100.0,
+        "count": 7
+      },
+      {
+        "name": "Shore Acres",
+        "lat": 40.60882,
+        "lng": -74.06672,
+        "avgPrice": 100.0,
+        "count": 7
+      },
+      {
+        "name": "Tottenville",
+        "lat": 40.50735,
+        "lng": -74.23939,
+        "avgPrice": 100.0,
+        "count": 7
+      },
+      {
+        "name": "Bull's Head",
+        "lat": 40.60115,
+        "lng": -74.16637,
+        "avgPrice": 45.0,
+        "count": 6
+      },
+      {
+        "name": "Grant City",
+        "lat": 40.57893,
+        "lng": -74.10933,
+        "avgPrice": 66.0,
+        "count": 6
+      },
+      {
+        "name": "Midland Beach",
+        "lat": 40.5737,
+        "lng": -74.09532,
+        "avgPrice": 95.0,
+        "count": 6
+      },
+      {
+        "name": "Emerson Hill",
+        "lat": 40.60716,
+        "lng": -74.12801,
+        "avgPrice": 78.0,
+        "count": 5
+      },
+      {
+        "name": "New Brighton",
+        "lat": 40.64261,
+        "lng": -74.09296,
+        "avgPrice": 55.0,
+        "count": 5
+      },
+      {
+        "name": "New Dorp Beach",
+        "lat": 40.56483,
+        "lng": -74.10212,
+        "avgPrice": 40.0,
+        "count": 5
+      },
+      {
+        "name": "Oakwood",
+        "lat": 40.56051,
+        "lng": -74.1186,
+        "avgPrice": 65.0,
+        "count": 5
+      },
+      {
+        "name": "Arden Heights",
+        "lat": 40.55241,
+        "lng": -74.18225,
+        "avgPrice": 72.5,
+        "count": 4
+      },
+      {
+        "name": "Castleton Corners",
+        "lat": 40.6171,
+        "lng": -74.12301,
+        "avgPrice": 107.5,
+        "count": 4
+      },
+      {
+        "name": "Prince's Bay",
+        "lat": 40.5257,
+        "lng": -74.20126,
+        "avgPrice": 151.5,
+        "count": 4
+      },
+      {
+        "name": "Todt Hill",
+        "lat": 40.60337,
+        "lng": -74.11011,
+        "avgPrice": 98.5,
+        "count": 4
+      },
+      {
+        "name": "Eltingville",
+        "lat": 40.54104,
+        "lng": -74.15436,
+        "avgPrice": 70.0,
+        "count": 3
+      },
+      {
+        "name": "Graniteville",
+        "lat": 40.62283,
+        "lng": -74.16575,
+        "avgPrice": 71.0,
+        "count": 3
+      },
+      {
+        "name": "Huguenot",
+        "lat": 40.53947,
+        "lng": -74.17168,
+        "avgPrice": 100.0,
+        "count": 3
+      },
+      {
+        "name": "Bay Terrace, Staten Island",
+        "lat": 40.55143,
+        "lng": -74.1405,
+        "avgPrice": 102.5,
+        "count": 2
+      },
+      {
+        "name": "Howland Hook",
+        "lat": 40.63129,
+        "lng": -74.17262,
+        "avgPrice": 100.0,
+        "count": 2
+      },
+      {
+        "name": "Lighthouse Hill",
+        "lat": 40.5768,
+        "lng": -74.13456,
+        "avgPrice": 157.5,
+        "count": 2
+      },
+      {
+        "name": "Silver Lake",
+        "lat": 40.6234,
+        "lng": -74.0965,
+        "avgPrice": 70.0,
+        "count": 2
+      },
+      {
+        "name": "Westerleigh",
+        "lat": 40.61389,
+        "lng": -74.13367,
+        "avgPrice": 71.5,
+        "count": 2
+      },
+      {
+        "name": "Fort Wadsworth",
+        "lat": 40.59546,
+        "lng": -74.06092,
+        "avgPrice": 800.0,
+        "count": 1
+      },
+      {
+        "name": "New Dorp",
+        "lat": 40.57044,
+        "lng": -74.11747,
+        "avgPrice": 57.0,
+        "count": 1
+      },
+      {
+        "name": "Richmondtown",
+        "lat": 40.57093,
+        "lng": -74.12429,
+        "avgPrice": 78.0,
+        "count": 1
+      },
+      {
+        "name": "Rossville",
+        "lat": 40.5479,
+        "lng": -74.21017,
+        "avgPrice": 75.0,
+        "count": 1
+      },
+      {
+        "name": "Willowbrook",
+        "lat": 40.59886,
+        "lng": -74.13217,
+        "avgPrice": 249.0,
+        "count": 1
+      },
+      {
+        "name": "Woodrow",
+        "lat": 40.53884,
+        "lng": -74.19826,
+        "avgPrice": 700.0,
+        "count": 1
+      }
+    ]
+  }
+}
