@@ -1,5 +1,5 @@
 # Stage 1: Build Next.js Frontend
-FROM node:18-alpine AS frontend-builder
+FROM node:20-alpine AS frontend-builder
 WORKDIR /app/frontend
 COPY frontend/package*.json ./
 RUN npm install
@@ -10,9 +10,9 @@ RUN npm run build
 FROM python:3.10-slim
 WORKDIR /app
 
-# Install Node.js runtime for Next.js
+# Install Node.js 20 runtime for Next.js
 RUN apt-get update && apt-get install -y curl && \
-    curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+    curl -fsSL https://deb.nodesource.com/setup_20.x | bash - && \
     apt-get install -y nodejs && \
     rm -rf /var/lib/apt/lists/*
 
